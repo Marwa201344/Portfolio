@@ -1,0 +1,93 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+
+.skillCont{
+    height: 700px;
+    width: 60%;
+    margin-left: 20%;
+    background-color: rgba(14, 13, 13, 0.911);
+}
+
+.skillHead{
+    width: 100%;
+    height: 240px;
+    text-align: center;
+    padding-top: 6%;
+}
+
+.skillHead .skillH4{
+    color: white;
+    font-size: 60px;
+    font-weight: 300;
+    font-family:  Georgia, 'Times New Roman', Times, serif;  
+}
+
+.skillHead .p1{
+    margin-top: 30px;
+    margin-left: 9%;
+}
+
+.skillHead .p2{
+    margin-top: 53px;
+    margin-left: 10%;
+}
+
+.skillHead .p3{
+    margin-top: 78px;
+    margin-left: 11%;
+}
+
+.skillBody{
+    width: 100%;
+    height: 460px;
+    display: flex;
+}
+
+.skillBody .mySkill{
+    width: 50%;
+}
+
+.skillBody .progressAbc{
+    width: 50%;
+    padding-top: 10%;
+}
+
+.mySkill h4{
+    color: white;
+    font-size: 25px;
+    font-family:  Georgia, 'Times New Roman', Times, serif;
+    font-weight: 300;
+    margin-top: 24%;
+    margin-left: 38%;
+}
+
+.mySkill hr{
+    width: 30%;
+    margin-left: 34%;
+    margin-top: 3%;
+    height: 2px;
+}
+
+.mySkill .pa1{
+    margin-top: 1.5%;
+    margin-left: 194px;
+    font-size: 20px;
+}
+.mySkill .pa2{
+    margin-top: 3%;
+    margin-left: 194px;
+    font-size: 20px;
+
+}
+.mySkill .pa3{
+    margin-top: 4.75%;
+    margin-left: 194px;
+    font-size: 20px;
+}
+.mySkill .pa4{
+    margin-top: 6.25%;
+    margin-left: 194px;
+    font-size: 20px;
+}

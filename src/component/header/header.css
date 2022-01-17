@@ -1,0 +1,47 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.cont{
+    width: 60%;
+    margin-left: 20%;
+}
+
+.head {
+    height: 500px;
+    width: 100%;
+    background-image: url("../../../public/images/header.jpg");
+    background-size: cover;
+    position: relative;
+}
+
+.head h1,p{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: absolute;
+}
+
+.head h1{
+    top: 33%;
+    left: 13%;
+}
+
+.head p{
+    top: 46%;
+    left: 7%;
+    font-size: 27px;
+}
+
+.head .contactUs{
+    position: absolute;
+    top: 62%;
+    left: 12%;
+    height: 9%;
+    width: 18%;
+    color: white;
+    background-color: transparent;
+    border: 1px solid white;
+    border-radius: 5px;
+    font-size: 18px;
+}

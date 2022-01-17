@@ -1,0 +1,25 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+
+.portfCont{
+    height: 600px;
+    width: 60%;
+    margin-left: 20%;
+    border: 1px solid black;
+}
+
+.portfCont .PortHead{
+    font-size: 50px;
+    font-weight: 300;
+    font-family:  Georgia, 'Times New Roman', Times, serif; 
+    margin-top: 3%;
+    margin-left: 4%;
+}
+
+.portfCont .cardsCont{
+    padding-left: 5%;
+}
+

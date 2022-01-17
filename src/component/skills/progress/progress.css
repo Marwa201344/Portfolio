@@ -1,0 +1,14 @@
+.progressAbc .progress{
+    height: 9%;
+    width: 80%;
+    margin-bottom: 10px;
+}
+
+.progressAbc .progress label{
+    margin-left: 0%;
+}
+
+
+.progress-bar {
+    background-color: darkgrey;
+}
